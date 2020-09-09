@@ -1,21 +1,24 @@
-# my-first-repo
+# Brandon Phillips
+
 I'm a new user, taking a class, and just learning Git an Github
 
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetâ€TMs pen, Turns them to shapes and gives to airy nothing, A local *habitation* and a **name$
-- This is
-- an unordered - list
-1. This is
-2. an ordered 3. list
-Here is `some code` in the middle of a sentence.
+# Geography              
 
-```
-This is
-a block
-of code
+I currently reside in Los Angeles, CA
 
-```
-Here is how you make [a link](https://www.wikipedia.org/).
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+## Movies
+
+- **Joker** 
+- **Shawshank Redemption**            
+- **Finding Nemo**
+
+### Where I've Lived
+
+1. Baltimore, MD
+2. Brookly, NY
+3. Sembach, Germany
+4. Clovis, NM
+5. Los Angeles, CA
+
+[https://www.wikipedia.org/]
+(https://www.wikipedia.org/)
