@@ -2,5 +2,10 @@ When I login to my Account, I dont see any Repos
 Test Line one
 line two
 added a Line in the update-gittest branch
+<<<<<<< HEAD
 It's a cloundy day outside today.
 
+=======
+It's a cloudy day outside today
+I'm adding a line to this branch too
+>>>>>>> update-gittest
