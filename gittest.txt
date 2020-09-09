@@ -3,3 +3,4 @@ Test Line one
 line two
 added a Line in the update-gittest branch
 It's a cloudy day outside today
+I'm adding a line to this branch too
